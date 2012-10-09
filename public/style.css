@@ -1,0 +1,12 @@
+body {
+	font-family: Helvetica, sans-serif;
+}
+
+.magnet {
+	font-weight: bold;
+	font-size: 64px;
+}
+
+.magnet:hover {
+	cursor: move;
+}
